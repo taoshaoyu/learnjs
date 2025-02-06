@@ -13,7 +13,7 @@
 
 ## MIT License
 
-Note: The license below applies only to the contents of this git repository, not the Pragmatic Bookshelf title "Serverless Single Page Apps", or any other related content.
+Note: The liclnse below applies only to the contents of this git repository, not the Pragmatic Bookshelf title "Serverless Single Page Apps", or any other related content.
 
 Copyright (c) 2015 Ben Rady <benrady@gmail.com>
 
